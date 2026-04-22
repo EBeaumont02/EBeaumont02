@@ -8,24 +8,24 @@ I’m passionate about understanding and protecting marine ecosystems, with a fo
 
 ## 🔭 Current Work
 
--   Developing **population viability analyses (PVA)** for marine mammals\
--   Exploring **whale–fisheries interactions** using predictive modelling\
+-   Developing **population viability analyses (PVA)** for marine mammals
+-   Exploring **whale–fisheries interactions** using predictive modelling
 -   Working with **GAMMs and agent-based models** to understand ecological drivers
 
 ------------------------------------------------------------------------
 
 ## 🌱 Currently Learning
 
--   Advanced **spatial modelling** techniques\
--   **Dynamic ocean management** approaches\
+-   Advanced **spatial modelling** techniques
+-   **Dynamic ocean management** approaches
 
 ------------------------------------------------------------------------
 
 ## 💬 Ask Me About
 
--   Population Viability Analysis (PVA)\
--   Marine mammal ecology (especially dolphins 🐬)\
--   R coding for ecological modelling\
+-   Population Viability Analysis (PVA)
+-   Marine mammal ecology (especially dolphins 🐬)
+-   R coding for ecological modelling
 
 ------------------------------------------------------------------------
 
