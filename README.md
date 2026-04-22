@@ -38,4 +38,4 @@ I’m passionate about understanding and protecting marine ecosystems, with a fo
 
 ## 📫 Contact Me
 
--   ✉️ Email: [eab638\@uowmail.edu.au](mailto:eab638@uowmail.edu.au){.email}
+-   ✉️ Email: [eab638\@uowmail.edu.au](mailto:eab638@uowmail.edu.au)
